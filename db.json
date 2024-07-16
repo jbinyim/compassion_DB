@@ -146,18 +146,6 @@
     },
     {
       "id": 12,
-      "number": "ID095500264",
-      "name": "아미르",
-      "live": "인도네시아",
-      "age": 11,
-      "sex": "여자",
-      "birth": "2012년 1월 15일",
-      "hoby": ["독서", "자전거타기"],
-      "family": ["아버지", "어머니", "남자형제", "2명의 여자형제"],
-      "img": "https://api.compassion.or.kr/child/1901864"
-    },
-    {
-      "id": 13,
       "number": "BD095500265",
       "name": "샤히나",
       "live": "방글라데시",
@@ -169,7 +157,7 @@
       "img": "https://api.compassion.or.kr/child/1903844"
     },
     {
-      "id": 14,
+      "id": 13,
       "number": "MZ095500266",
       "name": "엘레나",
       "live": "모잠비크",
@@ -181,7 +169,7 @@
       "img": "https://api.compassion.or.kr/child/1901866"
     },
     {
-      "id": 15,
+      "id": 14,
       "number": "ZW095500267",
       "name": "마이클",
       "live": "짐바브웨",
@@ -193,7 +181,7 @@
       "img": "https://api.compassion.or.kr/child/1874058"
     },
     {
-      "id": 16,
+      "id": 15,
       "number": "UG095500268",
       "name": "아만다",
       "live": "우간다",
@@ -205,7 +193,7 @@
       "img": "https://api.compassion.or.kr/child/1901868"
     },
     {
-      "id": 17,
+      "id": 16,
       "number": "TZ095500269",
       "name": "에밀리오",
       "live": "탄자니아",
@@ -217,7 +205,7 @@
       "img": "https://api.compassion.or.kr/child/1904010"
     },
     {
-      "id": 18,
+      "id": 17,
       "number": "SN095500270",
       "name": "아디아",
       "live": "세네갈",
@@ -229,7 +217,7 @@
       "img": "https://api.compassion.or.kr/child/1901870"
     },
     {
-      "id": 19,
+      "id": 18,
       "number": "PH095500271",
       "name": "클레어",
       "live": "필리핀",
@@ -241,7 +229,7 @@
       "img": "https://api.compassion.or.kr/child/1901796"
     },
     {
-      "id": 20,
+      "id": 19,
       "number": "NI095500272",
       "name": "루이스",
       "live": "니카라과",
@@ -253,7 +241,7 @@
       "img": "https://api.compassion.or.kr/child/1901872"
     },
     {
-      "id": 21,
+      "id": 20,
       "number": "MX095500273",
       "name": "마리아나",
       "live": "멕시코",
@@ -265,7 +253,7 @@
       "img": "https://api.compassion.or.kr/child/1900830"
     },
     {
-      "id": 22,
+      "id": 21,
       "number": "LA095500274",
       "name": "파트리샤",
       "live": "라오스",
@@ -277,7 +265,7 @@
       "img": "https://api.compassion.or.kr/child/1901874"
     },
     {
-      "id": 23,
+      "id": 22,
       "number": "KH095500275",
       "name": "소피아",
       "live": "캄보디아",
@@ -289,7 +277,7 @@
       "img": "https://api.compassion.or.kr/child/1868624"
     },
     {
-      "id": 24,
+      "id": 23,
       "number": "HN095500276",
       "name": "호세",
       "live": "온두라스",
@@ -301,19 +289,7 @@
       "img": "https://api.compassion.or.kr/child/1901876"
     },
     {
-      "id": 25,
-      "number": "GT095500277",
-      "name": "마리아",
-      "live": "과테말라",
-      "age": 6,
-      "sex": "여자",
-      "birth": "2017년 9월 6일",
-      "hoby": ["노래부르기", "미술"],
-      "family": ["아버지", "어머니", "여자형제", "1명의 남자형제"],
-      "img": "https://api.compassion.or.kr/child/1905070"
-    },
-    {
-      "id": 26,
+      "id": 24,
       "number": "GH095500278",
       "name": "에밀리오",
       "live": "가나",
@@ -325,7 +301,7 @@
       "img": "https://api.compassion.or.kr/child/1901878"
     },
     {
-      "id": 27,
+      "id": 25,
       "number": "ET095500279",
       "name": "아이샤",
       "live": "에티오피아",
